@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Janynne , @janynnemattos
+- I'm a Scrum master certified passionated by tech.
+- 🌱 I’m currently learning HTML5 and CSS. The next step is Javascript.
+- 📫 How to reach me: janynne.matter@hotmail.com
+- Bye! :)
